@@ -3,7 +3,7 @@
  
  ## What is API gateway and it's importance in microservices architecture
  
- * Watch video - TBD
+ * Watch video - https://youtu.be/Jg18VH6L4Lo
  
   ## Netflix ZUUL api gateway
  
