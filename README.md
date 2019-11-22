@@ -5,9 +5,9 @@
  
  * Watch video - https://youtu.be/Jg18VH6L4Lo
  
-  ## Netflix ZUUL api gateway
+  ## Netflix ZUUL api gateway part-1
  
- * Watch video - TBD
+ * Watch video - https://youtu.be/-I-9gK8NWXY
  
   ## Spring cloud gateway
  
