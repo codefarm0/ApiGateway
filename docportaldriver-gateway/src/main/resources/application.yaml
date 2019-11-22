@@ -1,0 +1,12 @@
+server:
+  port: 8100
+
+zuul:
+  routes:
+    doctors-service:
+      url: http://localhost:8082
+    patient-service:
+      url: http://localhost:8083
+    disease-service:
+      url: http://localhost:8081
+
