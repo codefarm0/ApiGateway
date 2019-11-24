@@ -5,9 +5,31 @@
  
  * Watch video - https://youtu.be/Jg18VH6L4Lo
  
-  ## Netflix ZUUL api gateway part-1
+  ## Netflix ZUUL 
+  
+  Below are the subtopics 
+  
+  ### Netflix zuul api gateway demo - request routing
  
  * Watch video - https://youtu.be/-I-9gK8NWXY
+ 
+ ### Internal architecture of netflix zuul - how it works?
+ 
+ * Watch video - TBD
+ 
+ ### Netflix zuul request filters
+ 
+ * Watch video - TBD
+ 
+ 
+ ### Netflix zuul request logging/auditing
+ 
+ * Watch video - TBD
+ 
+ 
+ ### Netflix zuul - authentication
+ 
+ * Watch video - TBD
  
   ## Spring cloud gateway
  
