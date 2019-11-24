@@ -15,7 +15,7 @@
  
  ### Internal architecture of netflix zuul - how it works?
  
- * Watch video - TBD
+ * Watch video - https://youtu.be/n6CYpQ0onK8
  
  ### Netflix zuul request filters
  
