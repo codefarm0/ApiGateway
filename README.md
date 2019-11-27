@@ -19,13 +19,21 @@
  
  ### Netflix zuul request filters
  
- * Watch video - TBD
+ * Watch video - https://youtu.be/CMqqy-fUaGI
  
  
  ### Netflix zuul request logging/auditing
  
+ * Watch video - https://youtu.be/CMqqy-fUaGI
+ 
+ 
+  ### Netflix zuul - API gateway Monitoring
+ 
  * Watch video - TBD
  
+  ### Netflix zuul - circuit breaker
+ 
+ * Watch video - TBD
  
  ### Netflix zuul - authentication
  
