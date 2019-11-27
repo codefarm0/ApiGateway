@@ -11,7 +11,7 @@ import java.util.Random;
 /**
  * @author - GreenLearner(https://www.youtube.com/channel/UCaH2MTg94hrJZTolW01a3ZA)
  */
-@Configuration
+//@Configuration
 public class SimpleFilter extends ZuulFilter {
     private static Logger log = LoggerFactory.getLogger(PreSecondfilter.class);
     static Random rand = new Random();

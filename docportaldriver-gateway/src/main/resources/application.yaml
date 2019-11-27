@@ -10,3 +10,20 @@ zuul:
     disease-service:
       url: http://localhost:8081
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+    health:
+      show-details: ALWAYS
+
+
+
+
+spring:
+  cloud:
+    circuit:
+      breaker:
+        enabled: false
