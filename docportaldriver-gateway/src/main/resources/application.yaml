@@ -9,6 +9,10 @@ zuul:
       url: http://localhost:8083
     disease-service:
       url: http://localhost:8081
+  host:
+    connect-timeout-millis: 2000
+    socket-timeout-millis: 5000
+
 
 management:
   endpoints:
@@ -18,12 +22,3 @@ management:
   endpoint:
     health:
       show-details: ALWAYS
-
-
-
-
-spring:
-  cloud:
-    circuit:
-      breaker:
-        enabled: false
