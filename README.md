@@ -33,7 +33,7 @@
  
   ### Netflix zuul - circuit breaker
  
- * Watch video - TBD
+ * Watch video - https://youtu.be/PjNXjRu6gco
  
  ### Netflix zuul - authentication
  
