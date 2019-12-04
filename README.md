@@ -29,11 +29,11 @@
  
   ### Netflix zuul - API gateway Monitoring
  
- * Watch video - TBD
+ * Watch video - https://youtu.be/Pr5LF4MWRLg
  
   ### Netflix zuul - circuit breaker
  
- * Watch video - TBD
+ * Watch video - https://youtu.be/PjNXjRu6gco
  
  ### Netflix zuul - authentication
  
