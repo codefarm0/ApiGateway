@@ -37,7 +37,7 @@
  
  ### Netflix zuul - authentication
  
- * Watch video - TBD
+ * Watch video - https://youtu.be/DcrTcGOU5wU
  
   ## Spring cloud gateway
  
