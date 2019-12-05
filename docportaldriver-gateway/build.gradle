@@ -18,8 +18,15 @@ ext {
 }
 
 dependencies {
+	// management endpoints
 	implementation 'org.springframework.boot:spring-boot-starter-actuator'
+
+	//API gateway
 	implementation 'org.springframework.cloud:spring-cloud-starter-netflix-zuul'
+
+	//seucrity
+	implementation 'org.springframework.boot:spring-boot-starter-security'
+
 	testImplementation('org.springframework.boot:spring-boot-starter-test') {
 		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
 	}

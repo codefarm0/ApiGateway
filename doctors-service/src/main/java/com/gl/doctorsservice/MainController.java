@@ -12,11 +12,11 @@ public class MainController {
 
     @GetMapping("/doctors")
     public String doctors(){
-        try {
+       /* try {
             Thread.sleep(20000);
         } catch (InterruptedException e) {
             e.printStackTrace();
-        }
+        }*/
         return "List of doctors";
     }
 }
